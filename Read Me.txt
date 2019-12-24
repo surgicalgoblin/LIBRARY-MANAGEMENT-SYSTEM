@@ -1,0 +1,3 @@
+Library Management System in C++
+
+Tested and Complied in Turbo C++.
